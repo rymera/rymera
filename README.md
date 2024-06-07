@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @mera
-- 👀 I’m interested in software engineering
-- 🌱 I’m currently learning HMTL, CSS, Java. I'm a noob chillllll
-- 💞️ I’m looking to learn about anything and everything about building amazing products!
+- 👀 I’m interested in building amazing products!
+- 🌱 I’m currently learning HMTL, CSS, Java. I'm a noob chilllll
 - 📫 How to reach me.. @meracc
 - ⚡ Fun fact: You miss 100% of the shots you don't take 😄
 
